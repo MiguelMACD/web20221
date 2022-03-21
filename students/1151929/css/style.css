@@ -1,0 +1,46 @@
+h1 {
+
+color: red;    
+position: relative;
+left: 34%;
+top: 20px;
+}
+
+cuerpo1 {
+    
+position: relative;
+left: 34%;
+top: 20px;
+}
+
+body {
+
+background: linear-gradient(to bottom,#058cfa,#14fc37);
+font-family: Arial Black;
+
+}
+
+.img img {
+    border-radius: 50%; 
+    max-width: 400px;
+    max-height: 400px;
+    margin: 0 auto;
+    object-fit: contain;
+    position: relative;
+    left: 35%;
+    top: 10px;
+}
+
+
+/**
+.rectangle
+{
+ width: 200px;
+ heigth: 200px;
+ background: red;
+ position: fixed;  
+ left: 35%;
+}
+ /* se mantiene quieto con fixed */
+ /* los lados: top, left, bottom, right */
+
